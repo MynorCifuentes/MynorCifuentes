@@ -9,3 +9,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mynorcifuentes&show_icons=true&locale=en" alt="mynorcifuentes" /></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mynorcifuentes)](https://git.io/streak-stats)
+
+
