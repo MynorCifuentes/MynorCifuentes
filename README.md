@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://github.com/MynorCifuentes/Sistema-Agricultura-Precision">
-    <img src="https://github-readme-stats-mcifuentes.vercel.app/api/pin?username=MynorCifuentes&repo=Sistema-Agricultura-Precision&theme=catppuccin_mocha&hide_border=true" alt="Sistema Agricultura Precision" />
+    <img src="https://github-readme-stats-mcifuentes.vercel.app/api/pin?username=MynorCifuentes&repo=Sistema-Agricultura-Precision&theme=catppuccin_mocha&hide_border=true&v=3" alt="Sistema Agricultura Precision" />
   </a>
   <a href="https://github.com/MynorCifuentes/Sistema-Turnos-Medicos">
     <img src="https://github-readme-stats-mcifuentes.vercel.app/api/pin?username=MynorCifuentes&repo=Sistema-Turnos-Medicos&theme=catppuccin_mocha&hide_border=true" alt="Sistema Turnos Medicos" />
