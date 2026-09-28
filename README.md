@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mynor Cifuentes</h1>
-<h3 align="center">Software Engineering Student | Backend & Systems Developer from Guatemala 🇬🇹</h3>
+<h1 align="center">Hi, I'm Mynor Cifuentes</h1>
+<h3 align="center">Software Engineer and Electronics student | Backend & Systems Developer from Guatemala 🇬🇹</h3>
 
 <p align="center">
   <a href="https://mynorcifuentes.github.io/" target="_blank">
@@ -12,20 +12,28 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🎓 **Engineering Student** at Escuela de Ciencias y Sistemas, Universidad de San Carlos de Guatemala (USAC).
-* 💻 Passionate about **software architecture**, low-level programming, and optimizing complex processes.
-* ⚙️ Experienced in configuring robust development environments (Ubuntu, Docker) and exploring ARM architectures.
-* 💡 Eager to apply Operations Research, linear programming, and Systems Theory to solve real-world problems.
+* **Science and Systems Engineerin** at Escuela de Ciencias y Sistemas, Universidad de San Carlos de Guatemala (USAC).
+* Passionate about **software architecture**, low-level programming, and optimizing complex processes.
+* Experienced in configuring robust development environments (Ubuntu, Docker) and exploring ARM architectures.
+* Eager to apply Operations Research, linear programming, and Systems Theory to solve real-world problems.
 
-## 💻 Featured Projects
+## Featured Projects
 
-* 🌾 **[Sistema de Agricultura de Precisión](https://github.com/MynorCifuentes/Sistema-Agricultura-Precision):** Plataforma orientada a la optimización de procesos agrícolas y gestión de datos. *(Actualiza esta línea con el detalle técnico de tu proyecto)*.
-* 🏥 **[Sistema de Turnos Médicos](https://github.com/MynorCifuentes/Sistema-Turnos-Medicos):** Solución de software diseñada para gestionar eficientemente la programación de citas y turnos en entornos de salud.
-* 🏆 **[TourneyJS](https://github.com/MynorCifuentes/TourneyJS):** Herramienta desarrollada en JavaScript para la estructuración y gestión de torneos.
+<p align="center">
+  <a href="https://github.com/MynorCifuentes/Sistema-Agricultura-Precision">
+    <img src="https://github-stats-extended-frontend-pink-six.vercel.app/api/pin?username=MynorCifuentes&repo=Sistema-Agricultura-Precision&theme=catppuccin_mocha&hide_border=true" alt="Sistema Agricultura Precision" />
+  </a>
+  <a href="https://github.com/MynorCifuentes/Sistema-Turnos-Medicos">
+    <img src="https://github-stats-extended-frontend-pink-six.vercel.app/api/pin?username=MynorCifuentes&repo=Sistema-Turnos-Medicos&theme=catppuccin_mocha&hide_border=true" alt="Sistema Turnos Medicos" />
+  </a>
+  <a href="https://github.com/MynorCifuentes/TourneyJS">
+    <img src="https://github-stats-extended-frontend-pink-six.vercel.app/api/pin?username=MynorCifuentes&repo=TourneyJS&theme=catppuccin_mocha&hide_border=true" alt="TourneyJS" />
+  </a>
+</p>
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <table align="center">
   <tr>
@@ -66,11 +74,11 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MynorCifuentes&show_icons=true&locale=en&theme=catppuccin_mocha&hide_border=true" alt="MynorCifuentes Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MynorCifuentes&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended-frontend-pink-six.vercel.app/api?username=MynorCifuentes&show_icons=true&locale=en&theme=catppuccin_mocha&hide_border=true" alt="MynorCifuentes Stats" />
+  <img src="https://github-stats-extended-frontend-pink-six.vercel.app/api/top-langs?username=MynorCifuentes&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
